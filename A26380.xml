@@ -1,0 +1,175 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Additional prayers to be used together with those appointed in the service for the fifth of November</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A26380</idno>
+            <idno type="STC">Wing A535</idno>
+            <idno type="STC">ESTC R4729</idno>
+            <idno type="EEBO-CITATION">13682451</idno>
+            <idno type="OCLC">ocm 13682451</idno>
+            <idno type="VID">101311</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A26380)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101311)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 830:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Additional prayers to be used together with those appointed in the service for the fifth of November</title>
+               </titleStmt>
+               <extent>3, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Charles Bill and Thomas Newcomb ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Prayer-books and devotions --  English.</term>
+               <term>Church of England --  Liturgy.</term>
+               <term>Prayers.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="prayers">
+            <pb facs="tcp:101311:1"/>
+            <!-- PDF PAGE 44 -->
+            <pb n="1" facs="tcp:101311:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 44 -->
+            <head>
+               <hi>Additional Prayers</hi> To be Uſed Together with thoſe Appointed in the Service for the Fifth of <hi>No<g ref="char:EOLhyphen"/>vember.</hi>
+            </head>
+            <div n="morning service" type="collect">
+               <head>¶ <hi>The Collect for Morning Service, to be added unto the other.</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">O</seg> God, whoſe Name is Excellent in all the Earth, and thy Glory above the Heavens; who, on this Day, didſt mi<g ref="char:EOLhyphen"/>xaculouſly preſerve our Church and State from the ſecret Contrivance, and helliſh Malice of Popiſh Couſpi<g ref="char:EOLhyphen"/>rators; and on this Day alſo didſt be<g ref="char:EOLhyphen"/>gin to give us a mighty Deliverance from the open Tyranny and Oppreſſion of the ſame Cru<g ref="char:EOLhyphen"/>el and Bloud-thirſty Enemies: We bleſs and adore thy glorious Majeſty, as for the Former, ſo for this thy Late marvelous Loving kindneſs to our Church and Nation in the Preſervation of our Religion and Liberties. And we humbly Pray, that the devant Senſe of this thy re<g ref="char:EOLhyphen"/>peated Mercy may renew and increaſe in us a Spirit of Love and Thankfulneſs to thee its only Author; a Sui<g ref="char:EOLhyphen"/>rit of peaceable Subiniſſion and Obedience to our Graci<g ref="char:EOLhyphen"/>ous Sovereign, whom thou madeſt the bleſſed Iuſtrument of it; and a Spirit of ſervent zeal for our holy Religion,
+<pb n="2" facs="tcp:101311:2"/>
+                  <!-- PDF PAGE 45 -->which now again, thou haſt ſo wonderfully Re<gap reason="illegible" resp="#OXF" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap> and Eſtabliſhed a Bleſſing to us, and our Poſſe<gap reason="illegible" resp="#OXF" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> this we beg for Ieſus Chriſt his ſake. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div n="litany" type="collect">
+               <p>¶ <hi>After the Collect for the Day in the Litany.</hi>
+               </p>
+               <p>ACcept alſo, moſt Gracious God, of our unfeigned Thanks for filling our Hearts again with Ioy and Gladneſs, after the Time that thou haſt efflicted us, and putting a New Song into our Mouths, by bringing His Majeſty who now Reigns over us, upon this Day, for the Deliverance of our Church and Nation from Po<g ref="char:EOLhyphen"/>piſh Tyranny and Arbitrary Power. We Adore the Wiſdom and Iuſtice of thy Providence, which ſo timely Interpoſed in our extreme Danger, and Diſappointed all the Deſigns of our Enemies. We beſeech thee give us ſuch a lively and laſting Senſe of what thou didſt then, and haſt, ſince that Time, done for us, that we may not grow ſecute and careleſs in our Obedience, by preſuming upon thy great and undeſerved Goodneſs; but that it may lead us to Repentance, and move us to be the more diligent and zealous in all the Duties of our Religion, which thou haſt, in a marvelous manner preſerved to us: Let Truth and Iuſtice, Brotherly kindneſs and Chari<g ref="char:EOLhyphen"/>ty, Devotion and Piety, Concord and Vnity, with all other Virtues, ſo flouriſh among us, that they may be the Stability of our Times, and make this Church a Praiſe in the Earth. All which we humbly beg, together with thy continued Bleſſing upon all Orders and De<g ref="char:EOLhyphen"/>grees of Men amongſt us, and the perfect Deliverance of our Brethren in <hi>Ireland,</hi> that they may Rejoyce toge<g ref="char:EOLhyphen"/>ther with us, and Triumph in thy Praiſe, for the ſake of our Bleſſed Lord and Saviour Chriſt Ieſus; To whom with thee, O Father of Mercies, and the Holy Ghoſt be eternal Praiſes. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div n="eucharist" type="collect">
+               <p>¶ <hi>In the Communion Service inſtead of the Collect for the Day.</hi>
+               </p>
+               <p>ETernal God, and our moſt mighty Protector, we thy unworthy Servants do humbly preſent our ſelves before thy Majeſty, acknowledging thy Power, Wisdom and Goodneſs in Preſerving the King, and the Three
+<pb n="3" facs="tcp:101311:2"/>
+                  <!-- PDF PAGE 45 -->Eſtates of this Realm aſſembled in Parliament, from the Deſtruction this Day intended againſt them. Make us, we beſeech thee, truly thankful for this, and for all other thy great Mercies towards us; particularly for making this Day again Memorable, by a freſh Iuſtance of thy Loving-kindneſs towards us. We bleſs thee for giving His Maieſty, that now is, a ſafe Arrival here, and for making all Oppoſition fall before him, till he became our King and Governour. Continue we beſeech thee to Protect and Defend Him, the Queen, and all the Royal Family, from all Treaſons and Conſpiracies; Preſerve them in thy Faith, Fear and Love; Proſper their Reign with long Happineſs here on Earth, and Crown them with everlaſting Glory hereafter, through Ieſus Chriſt our only Saviour and Redeemer. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="gospel_reading">
+               <p>¶ <hi>The Goſpel. St. <hi>Luke</hi> 9.51.</hi>
+               </p>
+               <p>ANd it came to paſs, when the time was come that he ſhould be received up, he ſtedfaſtly ſet his face to go to Ieruſalem, And ſent meſſengers before his face: and they went and entred into a village of the Samaritanes, to make ready for him. And they did not receive him, becauſe his face was as though he would go to Ieruſa<g ref="char:EOLhyphen"/>lem. And when his diſciples Iames and Iohn ſaw this, they ſaid, Lord, wilt thou that we command fire to come down from heaven, and conſume them, even as Elias did? But he turned and rebuked them, and ſaid, Ye know not what manner of Spirit ye are of. For the Son of man is not come to deſtroy mens lives, but to ſave them. And they went to another village.</p>
+               <pb facs="tcp:101311:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 46 -->
+            </div>
+         </div>
+         <div type="appointed_usage">
+            <head>
+               <hi>Whitehall,</hi> 
+               <date>October 30. 1689.</date>
+            </head>
+            <p>IT is His Majeſty's Pleaſure, That on the Fifth of <hi>November,</hi> in the Morning Prayer and in the Litany, theſe Two Additional Prayers be Uſed, together with thoſe Appoint<g ref="char:EOLhyphen"/>ed in the Service for that Day; And that inſtead of the Collect and the Goſpel in the Communion Service, theſe here Appointed be Uſed.</p>
+            <closer>
+               <signed>Shrewsbury.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Charles Bill</hi> and <hi>Thomas Newcomb,</hi> Printers to the King and Queens moſt Excel<g ref="char:EOLhyphen"/>lent Majeſties. 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
